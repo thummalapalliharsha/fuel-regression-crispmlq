@@ -37,7 +37,7 @@ pd.set_option("display.max_columns", 20)
 
 # ---- MySQL connection details (edit these to match YOUR MySQL) --------------
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "harsha1174"   # <-- change me
+MYSQL_PASSWORD = ""   # <-- change me
 MYSQL_HOST = "localhost"
 MYSQL_PORT = 3306
 MYSQL_DB = "airline"                    # create this database once (see README)
